@@ -28,7 +28,7 @@ class Home extends Component {
     return (
       <div className="Home">
         <p> Replace this</p>
-        <h1>Todo's </h1>
+        <h1> I now just replaced "Todo's" with this sentence! Please look at the about me page. </h1>
       </div>
     );
   }
